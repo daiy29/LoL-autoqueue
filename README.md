@@ -9,7 +9,7 @@ Simple tool to automatically queue up for the Blind Pick game mode in League of 
 ## Installation
 
 1. ```$ git clone https://github.com/daiy29/LoL-autoqueue```
-2. Navigate to build/script
+2. Navigate to dist/script
 3. Run Script.exe
 
 ## Usage
